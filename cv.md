@@ -1,5 +1,6 @@
 #**Sainap Nurlasova**
-##**Junior Frontend developer **
+
+##**Junior Frontend developer**
 
 Date of birth: 05/01/2002
 Citizenship: Kyrgyz
