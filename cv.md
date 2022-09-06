@@ -1,4 +1,4 @@
-#**Sainap Nurlasova**
+#Sainap Nurlasova
 
 ##**Junior Frontend developer**
 
