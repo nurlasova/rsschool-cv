@@ -1,4 +1,3 @@
-# rsschool-cv
 # **Sainap Nurlasova**
 
 ## **Junior Frontend developer**
@@ -14,7 +13,7 @@
 * WhatsApp:+996772664310
 
 ### **Education:**
-2018 - 2022 Graduated from the Kyrgyz Economic University named of. M. Ryskulbekova, business informatics (ICT manager).
+2018 - 2022 Graduated from the Kyrgyz Economic University named of. M. Ryskulbekova, business informatics (ICT manager) http://www.keu.kg/.
 
 #### **Additional education:**
 2021 (January - June) completed a course in JavaScript programming (Frontend) at Ala-Too International University have certificates.
@@ -40,4 +39,7 @@
 
 ### **Personal qualities:** 
 punctual, sociable, hardworking, purposeful, ready for new knowledge, I complete all assignments on time,  attentive to details, stress-resistant
+
+
+ 
 
