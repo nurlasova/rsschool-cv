@@ -1,16 +1,16 @@
-#Sainap Nurlasova
+# **Sainap Nurlasova**
 
-##**Junior Frontend developer**
+## **Junior Frontend developer**
 
 Date of birth: 05/01/2002
 Citizenship: Kyrgyz
 Relationship status: Single
 
-###**Contacts:**
-*Phone: +996772664310
-*E-mail: nurlasova.kg@gmail.com
-*Telegram: @nurlasova
-*WhatsApp:+996772664310
+### **Contacts:**
+* Phone: +996772664310
+* E-mail: nurlasova.kg@gmail.com
+* Telegram: @nurlasova
+* WhatsApp:+996772664310
 
 ###**Education:**
 2018 - 2022 Graduated from the Kyrgyz Economic University named of. M. Ryskulbekova, business informatics (ICT manager).
